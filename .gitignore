@@ -1,0 +1,16 @@
+## Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Configurações locais mantidas em tempo de execução
+settings.json
+
+## Logs e arquivos do ambiente
+*.log
+*.nupkg
+packages/
