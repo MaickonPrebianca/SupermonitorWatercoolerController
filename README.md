@@ -29,7 +29,7 @@ Versão disponível para Linux no link: https://github.com/MaickonPrebianca/supe
 
 - **Runtime:** [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
 - **Bibliotecas C# / NuGet:**
-  - `LibreHardwareMonitorLib` (0.9.3 ou superior)
+  - `LibreHardwareMonitorLib` (0.9.3 ou superior) https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/tree/master/LibreHardwareMonitorLib
   - `System.IO.Ports`
   - `System.Text.Json`
 
