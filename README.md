@@ -3,6 +3,8 @@ Aplicativo de monitoramento de informações de hardware em C# / WPF projetado p
 
 Versão disponível para Linux no link: https://github.com/MaickonPrebianca/super-monitor-ch340
 
+Não há acesso a rede de dados, seja para receber dados ou enviar telemetria pela internet.
+
 ---
 
 ## 📷 Demonstração
