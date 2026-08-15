@@ -1,6 +1,8 @@
-# Superframe Isengard Controller
+# Supermonitor Watercooler Controller
 
-Aplicativo de controle e monitoramento de hardware em C# / WPF projetado para ler dados de sensores do sistema (CPU e GPU) e enviá-los via comunicação Serial (COM) para o display LCD do watercooler **Superframe Isengard**.
+Aplicativo de monitoramento de informações de hardware em C# / WPF projetado para ler dados de sensores do sistema (CPU e GPU) e enviá-los via comunicação Serial (COM) para o display LCD do watercooler compatível e testado com o **Superframe Isengard Smart** no Sistema Operacional Microsoft Windows 10. 
+
+Versão disponível para Linux no link: https://github.com/MaickonPrebianca/super-monitor-ch340
 
 ---
 
@@ -8,7 +10,7 @@ Aplicativo de controle e monitoramento de hardware em C# / WPF projetado para le
 
 | Interface do Aplicativo | Dispositivo em Execução |
 | :---: | :---: |
-| ![Interface do App](docs/images/appScreen_2.png) | ![Watercooler LCD](docs/images/imagemWatercooler.jpg) |
+| ![Interface do App](docs/images/appScreen.png) | ![Watercooler LCD](docs/images/imagemWatercooler.png) |
 
 ---
 
